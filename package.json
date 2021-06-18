@@ -1,0 +1,24 @@
+{
+  "name": "coingecko-sheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vossenv/coingecko-sheets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vossenv/coingecko-sheets/issues"
+  },
+  "homepage": "https://github.com/vossenv/coingecko-sheets#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
